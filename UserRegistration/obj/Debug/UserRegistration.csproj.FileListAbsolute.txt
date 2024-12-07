@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\UserRegistration\UserRegistration\bin\UserRegistration.dll
+c:\users\admin\documents\visual studio 2010\Projects\UserRegistration\UserRegistration\bin\UserRegistration.pdb
+c:\users\admin\documents\visual studio 2010\Projects\UserRegistration\UserRegistration\obj\Debug\UserRegistration.dll
+c:\users\admin\documents\visual studio 2010\Projects\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
